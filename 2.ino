@@ -5,8 +5,8 @@
 #include <MFRC522.h>
 
 // WiFi dan Telegram
-const char* ssid = "NAMA_WIFI";
-const char* password = "PASSWORD_WIFI";
+const char* ssid = "randuwe yo wis";
+const char* password = "yyyyyyyy";
 String botToken = "BOT_TOKEN_KAMU";      // Ganti dengan token dari BotFather
 String chatID = "CHAT_ID_KAMU";          // Ganti dengan chat ID kamu
 
